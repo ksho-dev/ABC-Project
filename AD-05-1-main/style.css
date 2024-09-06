@@ -1,0 +1,25 @@
+/* Establecer el color de fondo en gris */
+body {
+  background-color: rgb(169, 169, 169); /* Gris */
+}
+
+/* Establecer el color de los títulos h3 en verde */
+h3 {
+  color: #00FF00; /* Verde */
+}
+
+/* Crear una clase para aplicar el color azul a tres títulos h3 */
+.blue-h3 {
+  color: #0000FF; /* Azul */
+}
+
+/* Establecer el color de un título h3 en rojo */
+.red-h3 {
+  color: #FF0000; /* Rojo */
+}
+
+/* Aplicar borde gris a las imágenes */
+img {
+  border: 1px solid rgb(169, 169, 169); /* Gris */
+  border-radius: 10px; /* Optional: adds a rounded corner effect */
+}
